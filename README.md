@@ -1,4 +1,3 @@
-# New-Gen-Hackathon
 # Telegram Jobs RAG Bot
 
 End-to-end system that reads job posts from multiple Telegram channels, caches them, builds a semantic index (RAG), and exposes a Telegram bot for conversational search with structured filtering.
